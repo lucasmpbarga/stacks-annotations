@@ -1,0 +1,3 @@
+SQL
+    Mysql: MySQL Workbench, ideal para desenvolvimento amplamente utilizado no mecado de trabalho.
+    Xampp: Apache + MariaDB + PHP + Perl, phpMyAdmin não é muito legal apra desenvolvimento. Pouco utilizado no mercado de trabalho.
